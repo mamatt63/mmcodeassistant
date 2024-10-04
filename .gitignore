@@ -1,0 +1,3 @@
+# Ignore python3 virtual env
+venv
+__pycache__

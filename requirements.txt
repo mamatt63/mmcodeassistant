@@ -1,0 +1,5 @@
+pip>=9
+setuptools>=26
+wheel>=0.29
+python-dotenv==1.0.1
+openai==1.51.0
